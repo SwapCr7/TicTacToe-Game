@@ -1,0 +1,1 @@
+It's a basic implementation of TicTacToe Game. To run the code download the .py file. Through cmd navigate to the .py file and type:- python Swapnil_tictactoe.py
